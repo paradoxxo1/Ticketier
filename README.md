@@ -2,7 +2,6 @@
 
 ## Tasks
 
-- [x] Clean up project
 - [x] Install and config Tailwind CSS
 - [x] Create Navbar component
 - [x] Create BackButton Component
